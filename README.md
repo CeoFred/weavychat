@@ -1,4 +1,7 @@
 # Weavy Chat GO Lang SDK
+ [![Go version](https://img.shields.io/badge/go-v1.21.2-blue)](https://golang.org) [![License](https://img.shields.io/github/license/CeoFred/weavychat)](https://github.com/CeoFred/weavychat/blob/master/LICENSE) [![My Workflow](https://github.com/CeoFred/weavychat/actions/workflows/go.yml/badge.svg)](https://github.com/CeoFred/weavychat/actions/workflows/go.yml)
+
+
 
 This library provides a Go client for interacting with the Weavy Chat API. It allows you to create applications, manage users, issue access tokens, and perform various operations within the Weavy Chat ecosystem.
 
